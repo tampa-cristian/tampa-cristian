@@ -179,15 +179,7 @@ Three.js powered learning platforms, later acquired by the Romanian Ministry of 
 
 <br/>
 
-<!--
-  ─── 3D Contribution Chart ───
-  Requires a one-time GitHub Action setup.
-  Create .github/workflows/profile-3d.yml in your tampa-cristian repo with:
-  https://github.com/yoshi389111/github-profile-3d-contrib
-  The action commits the SVG to your default branch under profile-3d-contrib/
--->
-
-![3D Contribution Chart](https://raw.githubusercontent.com/tampa-cristian/tampa-cristian/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Chart](https://raw.githubusercontent.com/tampa-cristian/tampa-cristian/main/profile-3d-contrib/profile-night-view.svg)
 
 <sub>📌 Most of my code lives behind enterprise firewalls.</sub>
 
