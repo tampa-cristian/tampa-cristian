@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=tampa-cristian&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Frontend+Engineer;Technical+Lead;Web+Platform+Architect;React+%E2%80%A2+TypeScript+%E2%80%A2+Edge+Computing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Frontend+Engineer;Technical+Lead;Web+Platform+Architect;React+%E2%80%A2+TypeScript+%E2%80%A2+Edge+Computing;Debugging+Mondays)
 
 ![Based in Malmö](https://img.shields.io/badge/Based_in-Malm%C3%B6,_Sweden-006AA7?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-8%2B_years-22C55E?style=for-the-badge)
