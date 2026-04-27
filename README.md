@@ -10,8 +10,6 @@
 ![Experience](https://img.shields.io/badge/Experience-8%2B_years-22C55E?style=for-the-badge)
 ![Open to Collaboration](https://img.shields.io/badge/Open_to-Collaboration-8B5CF6?style=for-the-badge)
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,threejs,nodejs,gcp,cloudflare,docker,terraform,figma,github&theme=dark&perline=12)](https://skillicons.dev)
-
 </div>
 
 ---
@@ -39,7 +37,7 @@ I lead engineering teams, translate fuzzy business requirements into resilient a
 ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![React Aria](https://img.shields.io/badge/React_Aria-E91E63?style=for-the-badge&logo=react&logoColor=white)
+![React Aria Components](https://img.shields.io/badge/React_Aria-E91E63?style=for-the-badge&logo=react&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -166,20 +164,10 @@ Three.js powered learning platforms, later acquired by the Romanian Ministry of 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tampa-cristian&theme=tokyonight" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tampa-cristian&theme=tokyonight" alt="Most Commit Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tampa-cristian&theme=tokyonight" alt="Stats Summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tampa-cristian&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tampa-cristian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&card_width=445" alt="Cristian's GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=tampa-cristian&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=tampa-cristian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&card_width=445" alt="Cristian's GitHub Stats" />
+<img height="180em" width="200em" src="https://streak-stats.demolab.com?user=tampa-cristian&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tampa-cristian&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity)
-
-<br/>
-
-![3D Contribution Chart](https://raw.githubusercontent.com/tampa-cristian/tampa-cristian/main/profile-3d-contrib/profile-night-view.svg)
 
 <sub>📌 Most of my code lives behind enterprise firewalls.</sub>
 
@@ -219,6 +207,8 @@ When I'm not shipping code, you'll probably find me:
 ### 💭 Words to Code By
 
 *"The best architectures, requirements, and designs emerge from self-organizing teams."* <br/>
-☕ <sub><i>Powered by good coffee, decent code reviews, and stubborn optimism.</i></sub>
+☕ <sub><i>Powered by good coffee, decent code reviews, and stubborn optimism.</i></sub> <br/>
+
+![3D Contribution Chart](https://raw.githubusercontent.com/tampa-cristian/tampa-cristian/main/profile-3d-contrib/profile-night-view.svg)
 
 </div>
