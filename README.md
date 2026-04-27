@@ -164,8 +164,8 @@ Three.js powered learning platforms, later acquired by the Romanian Ministry of 
 
 <div align="center">
 
-<img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=tampa-cristian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&card_width=445" alt="Cristian's GitHub Stats" />
-<img height="180em" width="480em" src="https://streak-stats.demolab.com?user=tampa-cristian&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=tampa-cristian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&card_width=445" alt="Cristian's GitHub Stats" />
+<img height="180em" width="442em" src="https://streak-stats.demolab.com?user=tampa-cristian&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tampa-cristian&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity)
 
