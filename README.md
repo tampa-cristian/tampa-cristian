@@ -190,6 +190,7 @@ When I'm not shipping code, you'll probably find me:
 - 🏋️ At the **gym** or out for a **run**, pretending it's about fitness, mostly about stress.
 - 🏂 Carving turns **snowboarding** when the mountain calls (it calls often).
 - 🏸 Playing **football**, **volleyball**, or **pool** with whoever's around.
+- 🏎️ Watching **F1**, pretending I understand tyre strategy while yelling at the TV.
 - 🍳 In the **kitchen**, half hobby, half therapy, occasionally edible.
 - 🤓 Going down **tech rabbit holes** for fun (yes, really, release notes count as bedtime reading).
 
